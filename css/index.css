@@ -1,6 +1,8 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: "Inter", sans-serif;
+    /* cor adm:#168100 */
 }
 header{
     background: #002333;
@@ -11,7 +13,16 @@ header{
     padding: 5px;
     color: white;
 }
+
 footer{
     background: #002333;
+    
+}
+#costureza{
+    text-align: center;
+    text-decoration: none;
     color: white;
+}
+#esqueceu{
+    color: #002333;
 }
