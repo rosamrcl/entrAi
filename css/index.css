@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background: #002333;
+}
+#loginentrar{
+    background-color: #002333;
+    margin: 5px;
+    padding: 5px;
+    color: white;
+}
+footer{
+    background: #002333;
+    color: white;
+}
