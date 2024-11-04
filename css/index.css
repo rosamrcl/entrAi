@@ -4,13 +4,17 @@
     font-family: "Inter", sans-serif;
     /* cor adm:#168100 */
 }
-header{
+#nave{
     background: #002333;
 }
 html, body{
     width: 100vw;
     height: 100vh;
 
+}
+.perfil{
+    border-radius: 95px;
+    width: 50px;
 }
 #log{
     text-align: center;
