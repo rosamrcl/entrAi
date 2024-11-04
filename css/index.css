@@ -12,6 +12,9 @@ html, body{
     height: 100vh;
 
 }
+#log{
+    text-align: center;
+}
 #loginentrar{
     background-color: #002333;
     margin: 5px;
