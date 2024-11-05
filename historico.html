@@ -6,6 +6,7 @@
     <title>entrAi</title>
     <link rel="stylesheet" href="./css/historico.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="shortcut icon" href="./img/favicon-16x16.png" type="image/x-icon">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -13,42 +14,77 @@
 </head>
 <body>
     <header>
-        <img src="./img/Frame 2608534.svg" alt="">
+        <nav class="navbar navbar-expand-lg" id="nave">
+            <div class="container-fluid">
+              <img src="./img/menor.svg" alt="">
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                  </li>
+                  <div id="profilemenu">
+                          <img class="perfil" src="./img/perfil.png" alt="">
+                          <p>Menu</p>
+                          <li>Tereza Vanesa Vieira</li>
+                          <li>Função: Adimisintrativo</li>
+                          <li>Matrícula: 359248</li>
+                        </div>
+                      <li><a class="dropdown-item" href="#">Perfil</a></li>
+                      <li><a class="dropdown-item" href="#">Configurações</a></li>
+                      <li><hr class="dropdown-divider"></li>
+                      <li><a class="dropdown-item" href="#">Suporte</a></li>
+                      <li><a class="dropdown-item" href="#">Justificativa</a></li>
+                      <li><a class="dropdown-item" href="#">Sair</a></li>
+                  
+                  
+                    
+                
+                </ul>
+                <form class="d-flex" role="search">
+                  <input class="form-control me-2" type="search" placeholder="Busca" aria-label="Search">
+                  
+                  <button class="btn btn-primary" type="submit">Busca</button>
+                </form>
+              </div>
+            </div>
+          </nav>
     </header>
     <main>
-        <section>
-            <div class="container" id="hist">
+        <section id="hist">
+            <div class="d-flex justify-content-center align-items-center flex-column">
                 <h1>Histórico</h1>
-                <img src="img/perfil.png" alt="" id="perfil"><h3>Tereza Vanessa</h3>
+                <img src="img/perfil.png" alt="" id="profile"><h3>Tereza Vanessa</h3>
                 <h4>Quarta-feira, 26/06/2024</h4>
             </div>
-            <div class="container" id="entrada">
+            <div class="d-flex justify-content-center align-items-center flex-column" id="entrada">
                 <h3>Entrada</h3>
                 <p>Horário: 07:05</p>
             </div>
-            <div class="container" id="intervalo">
+            <div class="d-flex justify-content-center align-items-center flex-column" id="intervalo">
                 <h3>Intervalo</h3>
                 <p>Horário: 12:01</p>
             </div>
-            <div class="container" id="retorno">
+            <div class="d-flex justify-content-center align-items-center flex-column" id="retorno">
                 <h3>Intervalo</h3>
                 <p>Horário: 13:05</p>
             </div>
-            <div class="container" id="saida">
+            <div class="d-flex justify-content-center align-items-center flex-column" id="saida">
                 <h3>Intervalo</h3>
                 <p>Horário: 17:02</p>
             </div>
-            
         </section>
+
 
 
     </main>
 
 
     <footer>
-        <a href="https://github.com/RosaCL" id="costureza">©Contureza TI</a>
+        <a href="https://github.com/RosaCL" id="costureza">©Costureza TI</a>
     </footer>
 </body>
-<script src="./js/historico.js"></script>
+<script src="./js/index.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </html>

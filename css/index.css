@@ -11,24 +11,36 @@
 html, body{
     width: 100vw;
     height: 100vh;
+    
 
 }
+
 #profilemenu{
     background-color: white;
+    color: #002333;
+    text-align: center;
 }
 
 .perfil{
     border-radius: 95px;
     width: 50px;
 }
+
 #log{
     text-align: center;
+    margin: 45px;
+    padding: 20px;
 }
+
 #loginentrar{
     background-color: #002333;
     margin: 5px;
     padding: 5px;
     color: white;
+}
+
+button {
+    background: white;
 }
 
 footer{
@@ -43,4 +55,5 @@ footer{
 }
 #esqueceu{
     color: #002333;
+    text-align: center;
 }

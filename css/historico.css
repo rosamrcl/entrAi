@@ -12,10 +12,21 @@ html, body{
     height: 100vh;
 
 }
-
-#perfil{
+#nave{
+    background: #002333;
+    color: white;
+}
+#profilemenu{
+    background-color: white;
+    color: #002333;
+    text-align: center;
+}
+#profile{
     border-radius: 95px;
-
+}
+.perfil{
+    border-radius: 95px;
+    width: 50px;
 }
 #hist{
     text-align: center;

@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Inter", sans-serif;
+    /* cor adm:#168100 */
+}
+#nave{
+    background: #002333;
+    color: white;
+}
+html, body{
+    width: 100vw;
+    height: 100vh;
+    
+
+}
+
+#profilemenu{
+    background-color: white;
+    color: #002333;
+    text-align: center;
+}
+
+.perfil{
+    border-radius: 95px;
+    width: 50px;
+}
+#hora{
+    margin: 5px;
+    padding: 5px;
+}
+#ponto{
+    background: #002333;
+    color: white;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 10px;
+}
+
+button {
+    background: white;
+}
+
+footer{
+    background: #002333;
+    text-align: center;
+    
+}
+#costureza{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+#time{
+    background: #168100;
+    padding: 10px;
+    color: white;
+    border-radius: 100px;
+    text-align: center;
+}
+
+#realizadas{
+    background: #D9D9D9;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 5px;
+}
+#hora1{
+    background: #168100;
+    color: white;
+    border-radius: 100px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    
+
+}
+#hora2{
+    background: #168100;
+    color: white;
+    border-radius: 100px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+#hora3{
+    background: #168100;
+    color: white;
+    border-radius: 100px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+#hora4{
+    background: #7C7C7C;
+    color: white;
+    border-radius: 100px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
