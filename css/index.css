@@ -13,6 +13,9 @@ html, body{
     height: 100vh;
 
 }
+#profilemenu{
+    background-color: white;
+}
 
 .perfil{
     border-radius: 95px;
