@@ -53,10 +53,17 @@ footer{
 }
 #time{
     background: #168100;
-    padding: 10px;
     color: white;
     border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     text-align: center;
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+    height: 200px;
 }
 
 #realizadas{
@@ -69,9 +76,14 @@ footer{
     background: #168100;
     color: white;
     border-radius: 100px;
-    margin: 10px;
-    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
     
 
 }
@@ -79,23 +91,38 @@ footer{
     background: #168100;
     color: white;
     border-radius: 100px;
-    margin: 10px;
-    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
 }
 #hora3{
     background: #168100;
     color: white;
     border-radius: 100px;
-    margin: 10px;
-    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
 }
 #hora4{
     background: #7C7C7C;
     color: white;
     border-radius: 100px;
-    margin: 10px;
-    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
 }

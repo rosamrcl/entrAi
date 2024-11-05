@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Inter", sans-serif;
+    /* cor adm:#168100 */
+}
+#nave{
+    background: #002333;
+    color: white;
+}
+html, body{
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+#profilemenu{
+    background-color: white;
+    color: #002333;
+    text-align: center;
+}
+
+.perfil{
+    border-radius: 95px;
+    width: 50px;
+}
+
+
+
+button {
+    background: white;
+}
+
+footer{
+    background: #002333;
+    text-align: center;
+    
+}
+#costureza{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+#saldo{
+    background: #002333;
+    border-radius: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+    
+}
+
+#ferias{
+    background: #d9d9d9;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 5px;
+}
