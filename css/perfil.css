@@ -25,27 +25,18 @@ html, body{
     border-radius: 95px;
     width: 50px;
 }
-
-#log{
-    text-align: center;
-    margin: 45px;
-    padding: 20px;
+.perfile{
+    border-radius: 95px; 
+    margin: 15px;   
 }
 
-#loginentrar{
-    background-color: #002333;
-    margin: 5px;
-    padding: 5px;
-    color: white;
-}
-
-button {
-    background: white;
-}
 
 footer{
+
     background: #002333;
     text-align: center;
+    margin: 5px;
+    padding: 5px;
     
 }
 #costureza{
@@ -53,8 +44,3 @@ footer{
     text-decoration: none;
     color: white;
 }
-#esqueceu{
-    color: #002333;
-    text-align: center;
-}
-
