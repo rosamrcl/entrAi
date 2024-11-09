@@ -8,6 +8,7 @@
     background: #002333;
     color: white;
 }
+
 html, body{
     width: 100vw;
     height: 100vh;
@@ -34,14 +35,17 @@ html, body{
 
 #loginentrar{
     background-color: #002333;
-    margin: 5px;
-    padding: 5px;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 15px;
     color: white;
 }
 
-button {
-    background: white;
+#lgn{
+    margin: 40px;
+    color: #002333;
 }
+
 
 footer{
     background: #002333;
