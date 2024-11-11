@@ -30,6 +30,20 @@ html, body{
     margin: 15px;   
 }
 
+#up{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: #002333;
+    color: white;
+}
+#envia{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #168100;
+    color: white;
+}
 
 footer{
 
