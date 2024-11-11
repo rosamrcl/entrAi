@@ -12,7 +12,14 @@
 html, body{
     width: 100vw;
     height: 100vh;
-    
+    }
+#config{
+        background-color: #002333 ;
+        border-radius: 20px;
+        margin: 5px;
+        padding: 5px;
+        color: white;
+        text-align: center;
 }
 #profilemenu{
     background-color: white;
@@ -23,4 +30,14 @@ html, body{
 .perfil{
     border-radius: 95px;
     width: 50px;
+}
+footer{
+    background: #002333;
+    text-align: center;
+    
+}
+#costureza{
+    text-align: center;
+    text-decoration: none;
+    color: white;
 }

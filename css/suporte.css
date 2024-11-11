@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
     font-family: "Inter", sans-serif;
-    /* cor adm:#168100 */
+    
 }
 #nave{
     background: #002333;
@@ -12,24 +12,21 @@ html, body{
     width: 100vw;
     height: 100vh;
     
-
 }
 
-#profilemenu{
-    background-color: white;
-    color: #002333;
-    text-align: center;
-}
+
 
 .perfil{
     border-radius: 95px;
     width: 50px;
 }
-.perfile{
-    border-radius: 95px; 
+.sup{
+    width: 100px;
     margin: 15px;   
 }
-
+#suporte{
+    text-align: justify;
+}
 
 footer{
 
