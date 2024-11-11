@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Inter", sans-serif;
+}
+
+#nave{
+    background: #002333;
+    color: white;
+}
+
+html, body{
+    width: 100vw;
+    height: 100vh;
+    }
+
+#profilemenu{
+    background-color: white;
+    color: #002333;
+    text-align: center;
+}
+
+.perfil{
+    border-radius: 95px;
+    width: 50px;
+}
+#yes{
+    background: #168100;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+#no{
+    background: #002333;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+footer{
+    background: #002333;
+    text-align: center;
+    
+}
+#costureza{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
