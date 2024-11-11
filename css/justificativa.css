@@ -29,7 +29,9 @@ html, body{
     border-radius: 95px; 
     margin: 15px;   
 }
-
+#descricao{
+    height: 200px;
+}
 #up{
     margin: 5px;
     padding: 5px;
