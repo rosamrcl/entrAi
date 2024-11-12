@@ -4,10 +4,7 @@
     font-family: "Inter", sans-serif;
 }
 
-#nave{
-    background: #002333;
-    color: white;
-}
+
 
 html, body{
     width: 100vw;
@@ -22,8 +19,8 @@ html, body{
         text-align: center;
 }
 #profilemenu{
-    background-color: white;
-    color: #002333;
+    background: #002333;
+    color: white;
     text-align: center;
 }
 

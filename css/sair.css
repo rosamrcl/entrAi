@@ -14,9 +14,10 @@ html, body{
     height: 100vh;
     }
 
+
 #profilemenu{
-    background-color: white;
-    color: #002333;
+    background: #002333;
+    color: white;
     text-align: center;
 }
 

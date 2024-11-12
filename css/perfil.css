@@ -2,22 +2,18 @@
     margin: 0px;
     padding: 0px;
     font-family: "Inter", sans-serif;
-    /* cor adm:#168100 */
+    
 }
-#nave{
-    background: #002333;
-    color: white;
-}
+
 html, body{
     width: 100vw;
-    height: 100vh;
-    
+    height: 100vh;    
 
 }
 
 #profilemenu{
-    background-color: white;
-    color: #002333;
+    background: #002333;
+    color: white;
     text-align: center;
 }
 

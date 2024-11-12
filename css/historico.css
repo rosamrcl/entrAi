@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
     font-family: "Inter", sans-serif;
-    /* cor adm:#168100 */
+   
 }
 header{
     background: #002333;
@@ -12,13 +12,10 @@ html, body{
     height: 100vh;
 
 }
-#nave{
-    background: #002333;
-    color: white;
-}
+
 #profilemenu{
-    background-color: white;
-    color: #002333;
+    background-color: #002333;
+    color: white;
     text-align: center;
 }
 #profile{
